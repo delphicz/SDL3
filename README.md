@@ -21,7 +21,7 @@ Pascal bindings that allow you to use **SDL3** and other useful libraries with <
 - Delphi/FreePascal that can target Win64/Unicode
 
 ### Usage
-You simply add `SDL3` to your uses section and everything will be linked in your executable **(~2k overhead)**, ready for use with no DLLs to maintain. You will have direct access to all the aforementioned libraries. :cool:  
+You simply add `SDL3` to your uses section and everything will be linked in your executable **(~2MB overhead)**, ready for use with no DLLs to maintain. You will have direct access to all the aforementioned libraries. :cool:  
 
 *Visit the repo links for more information/documentation about the libraries used.* 
 
