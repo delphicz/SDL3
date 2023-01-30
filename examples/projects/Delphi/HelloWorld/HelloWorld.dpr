@@ -81,7 +81,7 @@ program HelloWorld;
 
 uses
   System.SysUtils,
-  uHelloWorld in '..\..\sources\uHelloWorld.pas';
+  uHelloWorld in '..\..\..\sources\uHelloWorld.pas';
 
 begin
   try
